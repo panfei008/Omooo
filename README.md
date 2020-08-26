@@ -1,10 +1,10 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Omooo&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
- 🌱 I’m currently learning ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omooo)](https://github.com/anuraghazra/github-readme-stats)
+
+ 🌱 Keep learning ...
 
 
- 📫 How to reach me:
+ 📫 Email: omooo2333@gmail.com
  
-     Email: omooo2333@gmail.com
-
 
