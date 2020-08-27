@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Omooo">
-    <img src="https://github-readme-stats.vercel.app/api?username=Omooo&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+    <img src="https://github-readme-stats.wasabeef.vercel.app/api?username=Omooo&show_icons=true&line_height=21&show_icons=true&theme=vue" />
   </a>
 </p>
 
@@ -12,8 +12,3 @@
     <img src="https://komarev.com/ghpvc/?username=Omooo&color=brightgreen" />
   </a>  
 </p>
-
- 🌱 Keep learning ...
-
-
- 📫 Email: omooo2333@gmail.com
