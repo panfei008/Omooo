@@ -1,9 +1,19 @@
-[![Anurag's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=Omooo&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.wasabeef.vercel.app/api/top-langs/?username=Omooo&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/Omooo">
+    <img src="https://github-readme-stats.vercel.app/api?username=Omooo&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Omooo/Android-Notes">
+    <img src="https://img.shields.io/badge/🌱Android-Notes-brightness.svg"
+  </a>  
+  <a href="https://github.com/Omooo">
+    <img src="https://komarev.com/ghpvc/?username=Omooo&color=brightgreen" />
+  </a>  
+</p>
 
  🌱 Keep learning ...
 
 
  📫 Email: omooo2333@gmail.com
- 
-<img src="https://komarev.com/ghpvc/?username=Omooo&color=blue&style=flat-square" align="right" />
