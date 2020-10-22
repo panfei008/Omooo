@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Omooo/Android-Notes">
+  <a href="https://github.com/panfei008">
     <img src="https://img.shields.io/badge/🔥%20Android-Notes-brightness.svg"
   </a>  
   <a href="https://github.com/panfei008">
-    <img src="https://komarev.com/ghpvc/?username=Omooo&color=brightgreen" />
+    <img src="https://komarev.com/ghpvc/?username=panfei008&color=brightgreen" />
   </a>  
 </p>
